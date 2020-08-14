@@ -1,2 +1,2 @@
 # tuchuang
-cdn.wang19.com
+upload.wang19.cn
