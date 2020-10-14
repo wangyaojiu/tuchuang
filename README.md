@@ -1,6 +1,5 @@
 # 
-基于jsdelivr加速的Github的对象存储
-PHP利用Github与jsdelivr生成文件直链（对象存储/图床）
+基于jsdelivr加速的Github的对象存储生成文件直链（对象存储/图床）
 
 Demo: https://upload.wang19.cn/
 
